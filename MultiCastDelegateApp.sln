@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiCastDelegateApp", "MultiCastDelegateApp\MultiCastDelegateApp.csproj", "{5688BC08-CC00-4E77-BB8A-D0DA97EDA124}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5688BC08-CC00-4E77-BB8A-D0DA97EDA124}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5688BC08-CC00-4E77-BB8A-D0DA97EDA124}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5688BC08-CC00-4E77-BB8A-D0DA97EDA124}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5688BC08-CC00-4E77-BB8A-D0DA97EDA124}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9486B04E-7F8E-49D3-B7BC-930B4E66DC6B}
+	EndGlobalSection
+EndGlobal
